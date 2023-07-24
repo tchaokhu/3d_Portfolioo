@@ -40,7 +40,7 @@ const About = () => {
       >
         I'm a skilled software developer with experience in 
         JavaScript, HTML, CSS, Python, C++, C#
-        and used to use various of frameworks like React, React Native, Node.js, tailwindcss, a little mui, Three.js and
+        and used to use various of frameworks like React, React Native, Node.js, tailwindcss and
         unity. I'm a quick learner and ready to lern new things that your company want. If you want some man
         who will lern and growth with your company, I will be once of your choices, Let's work together to bring your ideas to life!
       </motion.p>
