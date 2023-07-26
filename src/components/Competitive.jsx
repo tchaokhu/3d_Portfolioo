@@ -47,7 +47,7 @@ const Competitive = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>My Challenge</p>
-        <h2 className={styles.sectionHeadText}>The Competitive.</h2>
+        <h2 className={styles.sectionHeadText}>The Competition.</h2>
       </motion.div>
 
       <div className="w-full flex">
@@ -55,7 +55,7 @@ const Competitive = () => {
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Following my competition showcase my competitive event. 
+          Following my competition showcase my competition event. 
             Each match give me a lot of experience. Each card is briefly described in it.
             It reflect my ability to solve problems, workaround, manage time in a limit time
         </motion.p>

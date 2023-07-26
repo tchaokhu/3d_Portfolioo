@@ -14,7 +14,10 @@ const Home = () => {
           {/* <Experience /> */}
           <Tech />
           <Works />
-          <Competitive/>
+          <div id="competition">
+            <Competitive/>
+          </div>
+          
           {/* <Feedbacks /> */}
 
           <div className="relative z-0 " id="contact">
