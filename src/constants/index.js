@@ -29,7 +29,7 @@ import {
   pos,
   topgun,
   carla,
-  java
+  java,APIs
 } from "../assets";
 
 export const navLinks = [
@@ -289,6 +289,27 @@ const projects = [
     ],
     image: pos,
     source_code_link: "https://github.com/tchaokhu/POS-car",
+  },
+  {
+    name: "APIs-Java",
+    description:
+      "This project uses Java to create APIs for movies. Some things I got from this project are how to create APIs, how to use some new libraries for making this project easier etc.",
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Springboot",
+        color: "green-text-gradient",
+      },
+      {
+        name: "APIs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: APIs,
+    source_code_link: "https://github.com/tchaokhu/APIs-movie",
   },
 ];
 
