@@ -43,7 +43,7 @@ export const navLinks = [
   },
   {
     id: "competition",
-    title: "competition",
+    title: "Competition",
   },
   {
     id: "contact",
@@ -230,7 +230,7 @@ const competitive = [
         color: "green-text-gradient",
       },
       {
-        name: "sanity",
+        name: "Matlab",
         color: "pink-text-gradient",
       },
     ],
